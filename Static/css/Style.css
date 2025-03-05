@@ -1,0 +1,14 @@
+.{
+    margin: 0;
+    padding: 0;
+    boc_sizing: border-box;
+}
+
+.bg-dark{
+    background-color: hsl(230, 3%, 47%);
+}
+
+.mt-50
+{
+    margin-top: 50px;
+}
